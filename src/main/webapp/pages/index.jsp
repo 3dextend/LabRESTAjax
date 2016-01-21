@@ -6,7 +6,7 @@
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script type="text/javascript">
-    var prefix = '/ryabenkiy-rest/myservice';
+    var prefix = '/lab-rest/myservice';
     var RestGet = function() {
         $.ajax({
             type: 'GET',
