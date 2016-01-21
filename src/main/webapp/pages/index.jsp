@@ -38,7 +38,7 @@
             async: true,
             success: function(result) {
                 alert('Время: ' + result.time
-                        + ', сообщенеи: ' + result.message);
+                        + ', сообщение: ' + result.message);
             },
             error: function(jqXHR, textStatus, errorThrown) {
                 alert(jqXHR.status + ' ' + jqXHR.responseText);
