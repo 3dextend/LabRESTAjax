@@ -26,7 +26,7 @@
     var RestPut = function() {
         var JSONObject= {
             'time': Date.now(),
-            'message': 'Это пример вызова PUT метода'
+            'message': 'Это вызов PUT метода'
         };
 
         $.ajax({
