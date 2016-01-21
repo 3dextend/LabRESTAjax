@@ -82,7 +82,7 @@
 
 <body>
 
-    <h3>Это простой пример использования REST c помощью Ajax</h3>
+    <h3>Вывод текущего времени с помощью REST и Ajax</h3>
 
     <button type="button" onclick="RestGet()">Метод GET</button>
     <button type="button" onclick="RestPost()">Метод POST</button>
